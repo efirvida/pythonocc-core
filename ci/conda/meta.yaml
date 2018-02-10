@@ -26,14 +26,14 @@ requirements:
     - cmake ==3.9.3
     - ninja ==1.8.2
     - swig ==3.0.12
-    - freetype ==2.7
+    - freetype ==2.8.1
     - smesh ==6.7.5
 
   run:
     - pyqt >=5
     - oce ==0.18.2
     - python
-    - freetype ==2.7
+    - freetype >=2.7
     - smesh ==6.7.5
 
 test:
